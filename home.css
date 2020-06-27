@@ -28,6 +28,8 @@
 .background {
 	background-color: lightgray;
 	border: 4px solid gray;
+	height: 1000px;
+	padding: 0 10px;
 
 }
 
@@ -39,6 +41,11 @@
 	font-size: normal;
 	float: left;
 
+}
+
+#hometitle {
+	font-family: Georgia;
+	font-size: xx-large;
 }
 
 
