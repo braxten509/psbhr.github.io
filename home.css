@@ -1,3 +1,5 @@
+@font-face { font-family: 'Fjalla One'; src: url('Fjalla-One.ttf'); } 
+
 .topnav {
 	overflow: hidden;
 	background-color: #333;
@@ -11,7 +13,8 @@
 	padding: 14px 16px;
 	text-decoration: none;
 	font-size: large;
-	font-family: Georgia;
+	font-family: 'Fjalla One', Georgia;
+	letter-spacing: .05em;
 }
 
 .topnav a:hover {
@@ -23,6 +26,8 @@
 	width: 960px;
 	padding: 40px 0;
 	margin: 0 auto;
+	color: #333;
+	font-family: Georgia;
 }
 
 .background {
@@ -37,17 +42,23 @@
 	padding: 14px 16px;
 	text-align: center;
 	color: #f2f2f2;
-	font-family: Georgia;
-	font-size: normal;
+	font-family: 'Fjalla One', Georgia;
+	letter-spacing: .05em;
+	font-size: large;
+	color: orange;
 	float: left;
 
 }
 
 #hometitle {
-	font-family: Georgia;
-	font-size: xx-large;
+	font-family: 'Fjalla One', Georgia;
+	font-size: 40px;
+	color: orange;
 }
 
+body {
+	background-color: #ffffcc;
+}
 
 
 
