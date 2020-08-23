@@ -1,0 +1,69 @@
+@font-face { font-family: 'Fjalla One'; src: url('Fjalla-One.ttf'); } 
+
+body {
+	background-color: lightgray;
+}
+
+.topnav {
+	position: fixed;
+	border-top: 5px solid orange;
+	background-color: #333;
+	top: 0px;
+	overflow: hidden;
+	width: 100%;
+	margin: 0 -10px;
+}
+
+.topnav a {
+	float: right;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: large;
+	font-family: 'Fjalla One', Georgia;
+	letter-spacing: .05em;
+}
+
+.topnav a:hover {
+	background-color: #ddd;
+	color: black;
+}
+
+.container {
+	width: 960px;
+	padding: 40px 0;
+	margin: 0 auto;
+	color: #333;
+	font-family: Georgia;
+}
+
+.background {
+	background-color: #f2f2f2;
+	height: 1000px;
+	padding: 20px 20px;
+}
+
+
+#logo {
+	padding: 14px 16px;
+	text-align: center;
+	color: #f2f2f2;
+	font-family: 'Fjalla One', Georgia;
+	letter-spacing: .05em;
+	font-size: large;
+	color: orange;
+	float: left;
+
+}
+
+#hometitle {
+	font-family: 'Fjalla One', Georgia;
+	font-size: 40px;
+	color: #333;
+}
+
+
+
+
