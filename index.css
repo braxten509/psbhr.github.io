@@ -26,6 +26,10 @@ body {
 	letter-spacing: .05em;
 }
 
+.selectionbar {
+	padding: 0 40px;
+}
+
 .topnav a:hover {
 	background-color: #ddd;
 	color: black;
