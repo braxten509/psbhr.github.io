@@ -10,8 +10,8 @@ body {
 	background-color: #333;
 	top: 0px;
 	overflow: hidden;
-	width: 100%;
-	margin: 0 10px 0 -10px;
+	width: 104%;
+	margin: 0 -10px;
 }
 
 .topnav a {
@@ -24,6 +24,10 @@ body {
 	font-size: large;
 	font-family: 'Fjalla One', Georgia;
 	letter-spacing: .05em;
+}
+
+.selectionbar {
+	padding: 0 40px;
 }
 
 .topnav a:hover {
@@ -63,7 +67,3 @@ body {
 	font-size: 40px;
 	color: #333;
 }
-
-
-
-
