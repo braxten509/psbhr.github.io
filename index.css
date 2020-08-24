@@ -11,7 +11,7 @@ body {
 	top: 0px;
 	overflow: hidden;
 	width: 100%;
-	margin: 0 -10px;
+	margin: 10px -10px;
 }
 
 .topnav a {
