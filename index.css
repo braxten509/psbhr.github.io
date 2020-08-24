@@ -10,8 +10,8 @@ body {
 	background-color: #333;
 	top: 0px;
 	overflow: hidden;
-	width: 100%;
-	margin: 0 10px 0 -10px;
+	width: 104%;
+	margin: 0 -10px;
 }
 
 .topnav a {
