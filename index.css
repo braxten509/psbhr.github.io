@@ -27,7 +27,7 @@ body {
 }
 
 .selectionbar {
-
+	padding: 0 10px;
 }
 
 .topnav a:hover {
